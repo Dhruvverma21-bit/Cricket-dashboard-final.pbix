@@ -25,3 +25,4 @@ Cleaned and organized dataset in CSV format.
 Power BI visualizations showcasing key insights and player performances.
 Documentation highlighting the analysis methodology and key findings.
 Feel free to explore the project and discover the best playing 11 in the T20 Cricket World Cup 2022!
+https://github.com/Dhruvverma21-bit/Cricket-dashboard-final.pbix/blob/main/Screenshot%202025-06-29%20152700.png
